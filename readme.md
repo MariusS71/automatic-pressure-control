@@ -2,7 +2,7 @@
 
 This project focuses on designing and implementing two types of controllers—**PID** and **RST**—to achieve automatic pressure regulation. The goal is to optimize system performance by ensuring stability, robustness, and responsiveness to perturbations.
 
-## 📊 Project Overview
+##  Project Overview
 - **Objective**: Develop and test automatic pressure controllers (PID and RST) on a simulated system.
 - **Technologies Used**: MATLAB, Control Systems Toolbox.
 - **Team Members**: Marius-Andrei Saioc, Maria-Cristina Sima.
